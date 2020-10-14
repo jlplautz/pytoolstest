@@ -276,7 +276,7 @@ def test_users_list(connection, session):
     - @pytest.fixture(scope='session') -> runs just once during the session test
 
 ### 24- Correction of github workflow action
-    - lib codecov was installed
+    - lib codecov we don't need to install it localy only in the file github workflow action
 ```
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1

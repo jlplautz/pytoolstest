@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 flake8 = "*"
 pytest = "*"
-codecov = "*"
 pytest-cov = "*"
 
 [packages]
