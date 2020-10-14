@@ -32,4 +32,4 @@ jobs:
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
       with:
-        token: 8ffacf64-9e35-4c13-bc19-39d07676d0ce
+        token: 816b5858-2c49-412e-95ca-f9c2c9495053
