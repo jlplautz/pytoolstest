@@ -171,6 +171,8 @@ pyenv global <versao>
 ![](static/images/webhooks.png)
 
 ### 19- TDD Test Driven Development
+   - Test Driven Development (the idea here is to write tests and consequently our code is 
+     going to be created)
    - Create a python package -> spam  and test_spam
    
 ### 20- Create a test to verify the email account is correct
